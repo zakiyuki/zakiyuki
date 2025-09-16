@@ -8,7 +8,7 @@
 - 🗄️ データベース: MySQLによるスキーマ設計、テーブル作成、CRUD操作（Create, Read, Update, Delete）の実装経験  
 - 🤖 AI応用: Pythonを活用したAIベースのアプリケーション開発を学習中（自然言語処理・データ分析・推論APIの実装など）  
 - 👯 Webアプリケーション開発およびAI活用プロジェクトにおけるコラボレーションに興味あり  
-- 📫 How to reach me: your-email@example.com  
+- 📫 How to reach me: y.652925489@gmail.com  
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -19,4 +19,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki&show_icons=true&theme=radical)
